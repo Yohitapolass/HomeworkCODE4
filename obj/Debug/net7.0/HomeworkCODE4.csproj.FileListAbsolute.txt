@@ -1,0 +1,15 @@
+C:\Users\RinyaChan\Desktop\HomeworkCODE4\bin\Debug\net7.0\HomeworkCODE4.exe
+C:\Users\RinyaChan\Desktop\HomeworkCODE4\bin\Debug\net7.0\HomeworkCODE4.deps.json
+C:\Users\RinyaChan\Desktop\HomeworkCODE4\bin\Debug\net7.0\HomeworkCODE4.runtimeconfig.json
+C:\Users\RinyaChan\Desktop\HomeworkCODE4\bin\Debug\net7.0\HomeworkCODE4.dll
+C:\Users\RinyaChan\Desktop\HomeworkCODE4\bin\Debug\net7.0\HomeworkCODE4.pdb
+C:\Users\RinyaChan\Desktop\HomeworkCODE4\obj\Debug\net7.0\HomeworkCODE4.csproj.AssemblyReference.cache
+C:\Users\RinyaChan\Desktop\HomeworkCODE4\obj\Debug\net7.0\HomeworkCODE4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RinyaChan\Desktop\HomeworkCODE4\obj\Debug\net7.0\HomeworkCODE4.AssemblyInfoInputs.cache
+C:\Users\RinyaChan\Desktop\HomeworkCODE4\obj\Debug\net7.0\HomeworkCODE4.AssemblyInfo.cs
+C:\Users\RinyaChan\Desktop\HomeworkCODE4\obj\Debug\net7.0\HomeworkCODE4.csproj.CoreCompileInputs.cache
+C:\Users\RinyaChan\Desktop\HomeworkCODE4\obj\Debug\net7.0\HomeworkCODE4.dll
+C:\Users\RinyaChan\Desktop\HomeworkCODE4\obj\Debug\net7.0\refint\HomeworkCODE4.dll
+C:\Users\RinyaChan\Desktop\HomeworkCODE4\obj\Debug\net7.0\HomeworkCODE4.pdb
+C:\Users\RinyaChan\Desktop\HomeworkCODE4\obj\Debug\net7.0\HomeworkCODE4.genruntimeconfig.cache
+C:\Users\RinyaChan\Desktop\HomeworkCODE4\obj\Debug\net7.0\ref\HomeworkCODE4.dll
